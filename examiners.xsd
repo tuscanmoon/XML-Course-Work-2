@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+  xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+  elementFormDefault="qualified">
+
+  <!-- Main subject declaration -->
+  <xs:element name="examinerCV">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="examiner" type="exm:examiner" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Simple Type Declarations -->
+  <xs:simpleType name="firstName">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="identificationNumber">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="identificationType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Driver Number"/>
+      <xs:enumeration value="National Indentity Number"/>
+      <xs:enumeration value="National Insurance Number"/>
+      <xs:enumeration value="NHS Number"/>
+      <xs:enumeration value="Passport Number"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="issuingAuthority">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="institution">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="position">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="title">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="secondaryName">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="subjectArea">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="surname">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="localIdentificationNumber">
+    <xs:restriction base="xs:integer"/>
+  </xs:simpleType>
+
+  <!-- Complex Type Declarations -->
+  <xs:complexType name="academicPost">
+    <xs:sequence>
+      <xs:element name="currentPost" type="exm:postHeld"/>
+      <xs:element name="previousPost" type="exm:postHeld" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="examiner">
+    <xs:sequence>
+      <xs:element name="personalDetails" type="exm:personalDetails"/>
+      <xs:element name="subjectArea" type="xs:string"/>
+      <xs:element name="academicPost" type="exm:academicPost"/>
+      <xs:element name="PhDDetail" type="exm:PhDDetail"/>
+      <xs:element name="previousExperience" type="exm:previousExperience" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:complexType name="experience">
+    <xs:sequence>
+      <xs:element name="subjectArea" type="xs:string"/>
+      <xs:element name="institution" type="exm:institution"/>
+      <xs:element name="examinationDate" type="xs:date"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="personName">
+    <xs:sequence>
+      <xs:element name="title" type="exm:title"/>
+      <xs:element name="firstName" type="exm:firstName"/>
+      <xs:element name="secondaryName" type="exm:secondaryName" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="surname" type="exm:surname"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="personalDetails">
+    <xs:sequence>
+      <xs:element name="localIdentificationNumber" type="exm:localIdentificationNumber"/>
+      <xs:element name="personalIdentification" type="exm:personalIdentification"/>
+      <xs:element name="personName" type="exm:personName"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="personalIdentification">
+    <xs:sequence>
+      <xs:element name="identificationNumber" type="exm:identificationNumber"/>
+      <xs:element name="identificationType" type="exm:identificationType"/>
+      <xs:element name="issuingAuthority" type="exm:issuingAuthority"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="PhDDetail">
+    <xs:sequence>
+      <xs:element name="institution" type="exm:institution"/>
+      <xs:element name="PhDExaminar" type="exm:personalDetails" maxOccurs="unbounded"/>
+      <xs:element name="PhDSupervisor" type="exm:personalDetails" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="postHeld">
+    <xs:sequence>
+      <xs:element name="position" type="exm:position"/>
+      <xs:element name="institution" type="exm:institution"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:complexType name="previousExperience">
+    <xs:sequence>
+      <xs:element name="experience" type="exm:experience" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>

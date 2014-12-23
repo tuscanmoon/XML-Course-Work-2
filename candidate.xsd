@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/candidate"
+  xmlns:cnd="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/candidate"
+  elementFormDefault="qualified">
+
+  <!-- Main subject declaration -->
+  <xs:element name="candidate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="personalDetails" type="cnd:personalDetails"/>
+        <xs:element name="subjectArea" type="xs:string"/>
+        <xs:element name="PhDDetail" type="cnd:PhDDetail"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+
+  <!-- Simple Type Declarations -->
+  <xs:simpleType name="firstName">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="identificationNumber">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="identificationType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Driver Number"/>
+      <xs:enumeration value="National Indentity Number"/>
+      <xs:enumeration value="National Insurance Number"/>
+      <xs:enumeration value="NHS Number"/>
+      <xs:enumeration value="Passport Number"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="issuingAuthority">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="institution">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="title">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="secondaryName">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="subjectArea">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="surname">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="localIdentificationNumber">
+    <xs:restriction base="xs:integer"/>
+  </xs:simpleType>
+
+  <!-- Complex Type Declarations -->
+  <xs:complexType name="personName">
+    <xs:sequence>
+      <xs:element name="title" type="cnd:title"/>
+      <xs:element name="firstName" type="cnd:firstName"/>
+      <xs:element name="secondaryName" type="cnd:secondaryName" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="surname" type="cnd:surname"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="personalDetails">
+    <xs:sequence>
+      <xs:element name="localIdentificationNumber" type="cnd:localIdentificationNumber"/>
+      <xs:element name="personalIdentification" type="cnd:personalIdentification"/>
+      <xs:element name="personName" type="cnd:personName"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="personalIdentification">
+    <xs:sequence>
+      <xs:element name="identificationNumber" type="cnd:identificationNumber"/>
+      <xs:element name="identificationType" type="cnd:identificationType"/>
+      <xs:element name="issuingAuthority" type="cnd:issuingAuthority"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="PhDDetail">
+    <xs:sequence>
+      <xs:element name="institution" type="cnd:institution"/>
+      <xs:element name="PhDSupervisorID" type="cnd:localIdentificationNumber" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>

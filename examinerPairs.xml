@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<examinerChoice>
+    <examinerPair>
+        <priority>Ideal - Both candidates have University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>6</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AV123476J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Nigella</exm:firstName>
+                    <exm:secondaryName>May</exm:secondaryName>
+                    <exm:surname>Lamp</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>7</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>CC123456J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Peter</exm:firstName>
+                    <exm:surname>Pan</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+    <examinerPair>
+        <priority>Ideal - Both candidates have University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>6</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AV123476J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Nigella</exm:firstName>
+                    <exm:secondaryName>May</exm:secondaryName>
+                    <exm:surname>Lamp</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>10</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>KR123987J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Jo</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Tree</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+    <examinerPair>
+        <priority>Possible - One candidate has University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>1</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AB123456J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Harry</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Nesbitt</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>7</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>CC123456J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Peter</exm:firstName>
+                    <exm:surname>Pan</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+    <examinerPair>
+        <priority>Possible - One candidate has University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>1</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AB123456J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Harry</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Nesbitt</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>10</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>KR123987J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Jo</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Tree</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+    <examinerPair>
+        <priority>Possible - One candidate has University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>6</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AV123476J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Nigella</exm:firstName>
+                    <exm:secondaryName>May</exm:secondaryName>
+                    <exm:surname>Lamp</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>2</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>GH128856J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Karen</exm:firstName>
+                    <exm:secondaryName>Alison</exm:secondaryName>
+                    <exm:surname>Doyle</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+    <examinerPair>
+        <priority>Possible - One candidate has University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>6</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AV123476J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Nigella</exm:firstName>
+                    <exm:secondaryName>May</exm:secondaryName>
+                    <exm:surname>Lamp</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>9</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>SS125451L</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Professor</exm:title>
+                    <exm:firstName>John</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Book</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+    <examinerPair>
+        <priority>Fallback - None of candidates have University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>1</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AB123456J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Harry</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Nesbitt</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>2</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>GH128856J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Karen</exm:firstName>
+                    <exm:secondaryName>Alison</exm:secondaryName>
+                    <exm:surname>Doyle</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+    <examinerPair>
+        <priority>Fallback - None of candidates have University of London PhD examiner
+            experience</priority>
+        <localExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>1</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AB123456J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Harry</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Nesbitt</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </localExaminar>
+        <externalExaminar>
+            <exm:personalDetails
+                xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner">
+                <exm:localIdentificationNumber>9</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>SS125451L</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Professor</exm:title>
+                    <exm:firstName>John</exm:firstName>
+                    <exm:secondaryName>James</exm:secondaryName>
+                    <exm:surname>Book</exm:surname>
+                </exm:personName>
+            </exm:personalDetails>
+        </externalExaminar>
+    </examinerPair>
+</examinerChoice>

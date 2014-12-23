@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cnd:candidate xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/candidate"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:cnd="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/candidate"
+    xsi:schemaLocation="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/candidate candidate.xsd">
+    <personalDetails>
+        <localIdentificationNumber>1000</localIdentificationNumber>
+        <personalIdentification>
+            <identificationNumber>123400765</identificationNumber>
+            <identificationType>Passport Number</identificationType>
+            <issuingAuthority>UK Government</issuingAuthority>
+        </personalIdentification>
+        <personName>
+            <title>Mr</title>
+            <firstName>Peter</firstName>
+            <secondaryName>James</secondaryName>
+            <surname>Clause</surname>
+        </personName>
+    </personalDetails>
+    <subjectArea>Inorganic Chemistry</subjectArea>
+    <PhDDetail>
+        <institution>UCL</institution>
+        <PhDSupervisorID>11</PhDSupervisorID>
+    </PhDDetail>
+</cnd:candidate>
+

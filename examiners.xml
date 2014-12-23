@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exm:examinerCV xmlns="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:exm="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner"
+    xsi:schemaLocation="http://webspace.stu.qmul.ac.uk/~ac08162/amcm043/coursework2/examiner examiners.xsd">
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>1</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>AB123456J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Harry</exm:firstName>
+                <exm:secondaryName>James</exm:secondaryName>
+                <exm:surname>Nesbitt</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Inorganic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>The Royal Veterinary College</exm:institution>
+            </exm:currentPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Brisol</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>University of Brisol</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>300</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>GH456234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>James</exm:firstName>
+                    <exm:surname>Bourne</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>310</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>FH455234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Jason</exm:firstName>
+                    <exm:surname>Bond</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>320</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123456789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <title>Miss</title>
+                    <firstName>Alicia</firstName>
+                    <surname>Keys</surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>University of Bristol</institution>
+                <examinationDate>2007-10-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>University of Bristol</institution>
+                <examinationDate>2007-03-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>University of Bath</institution>
+                <examinationDate>2006-05-02</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>2</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>GH128856J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Karen</exm:firstName>
+                <exm:secondaryName>Alison</exm:secondaryName>
+                <exm:surname>Doyle</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Inorganic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>University of Brighton</exm:institution>
+            </exm:currentPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>Imperial College</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>Imperial College</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>200</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>HH467234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Andrew</exm:firstName>
+                    <exm:surname>Parker</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>210</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>345676543</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Jason</exm:firstName>
+                    <exm:surname>Bond</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>220</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123445789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Gordon</exm:firstName>
+                    <exm:surname>Cameron</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>3</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>PW168856H</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Tony</exm:firstName>
+                <exm:secondaryName>Nelson</exm:secondaryName>
+                <exm:surname>Mandelson</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Organic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>University of Leicester</exm:institution>
+            </exm:currentPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Durham</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>Imperial College</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>100</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>HJ465234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Julie</exm:firstName>
+                    <exm:surname>Brown</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>110</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>345786543</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Carol</exm:firstName>
+                    <exm:surname>Barnes</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <PhDSupervisor>
+                <exm:localIdentificationNumber>120</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123563789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Hillay</exm:firstName>
+                    <exm:surname>Smith</exm:surname>
+                </exm:personName>
+            </PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Organic Chemistry</subjectArea>
+                <institution>UCL</institution>
+                <examinationDate>2006-01-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>UCL</institution>
+                <examinationDate>2008-05-15</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>4</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>BC143456J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Charles</exm:firstName>
+                <exm:surname>Table</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Organic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Hull</exm:institution>
+            </exm:currentPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>University of Hull</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>501</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>HH456884K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Mary</exm:firstName>
+                    <exm:surname>Chair</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>502</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>JJ457234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Billy</exm:firstName>
+                    <exm:surname>Glass</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>503</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123457789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Prof</exm:title>
+                    <exm:firstName>Carol</exm:firstName>
+                    <exm:surname>Book</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>5</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>AN123433J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Julie</exm:firstName>
+                <exm:secondaryName>Carol</exm:secondaryName>
+                <exm:surname>Jones</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Information Management</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>UCL</exm:institution>
+            </exm:currentPost>
+            <previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Brisol</exm:institution>
+            </previousPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Carolina</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>UCL</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>505</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>TT457234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Tom</exm:firstName>
+                    <exm:surname>Bag</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>507</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>LL455255K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Fred</exm:firstName>
+                    <exm:surname>Mat</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>509</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123443789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Toby</exm:firstName>
+                    <exm:surname>Johnson</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Information Management</subjectArea>
+                <institution>University of Brighton</institution>
+                <examinationDate>2005-10-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>XML</subjectArea>
+                <institution>University of Bristol</institution>
+                <examinationDate>2006-03-02</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>6</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>AV123476J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Nigella</exm:firstName>
+                <exm:secondaryName>May</exm:secondaryName>
+                <exm:surname>Lamp</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Inorganic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>Kings College London</exm:institution>
+            </exm:currentPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>Kings College London</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>Kings College London</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>520</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>KY433234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Sue</exm:firstName>
+                    <exm:surname>Blue</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>521</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>QA112234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Priscilla</exm:firstName>
+                    <exm:surname>Keep</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>523</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>223456789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Miss</exm:title>
+                    <exm:firstName>Alicia</exm:firstName>
+                    <exm:surname>Keys</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>University of Durham</institution>
+                <examinationDate>2007-10-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>UCL</institution>
+                <examinationDate>2005-03-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea/>
+                <institution>Queen Mary</institution>
+                <examinationDate>2006-04-08</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>7</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>CC123456J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Peter</exm:firstName>
+                <exm:surname>Pan</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Inorganic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>University of Durham</exm:institution>
+            </exm:currentPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Durham</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>University of Durham</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>530</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>FF456454K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Larry</exm:firstName>
+                    <exm:surname>Bottle</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>531</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>ER412234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Alice</exm:firstName>
+                    <exm:surname>Pot</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>532</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123498789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Preston</exm:firstName>
+                    <exm:surname>Wyatt</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>The Institute of Cancer Research</institution>
+                <examinationDate>2007-10-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>University of Bristol</institution>
+                <examinationDate>2005-03-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>University of Surrey</institution>
+                <examinationDate>2004-05-02</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>8</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>LL123456J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Alison</exm:firstName>
+                <exm:secondaryName>Karen</exm:secondaryName>
+                <exm:surname>Fortune</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Physical Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>UCL</exm:institution>
+            </exm:currentPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>UCL</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>540</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>CV985434K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Hugo</exm:firstName>
+                    <exm:surname>Boss</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>542</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>RT455734K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Peter</exm:firstName>
+                    <exm:surname>String</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>543</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>144456789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Robert</exm:firstName>
+                    <exm:surname>Rowland</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Physical Chemistry</subjectArea>
+                <institution>The Institute of Cancer Research</institution>
+                <examinationDate>2007-10-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Physical Chemistry</subjectArea>
+                <institution>Queen Mary</institution>
+                <examinationDate>2007-03-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Physical Chemistry</subjectArea>
+                <institution>Queen Mary</institution>
+                <examinationDate>2006-05-02</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>9</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>SS125451L</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Professor</exm:title>
+                <exm:firstName>John</exm:firstName>
+                <exm:secondaryName>James</exm:secondaryName>
+                <exm:surname>Book</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Inorganic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Head of Department</exm:position>
+                <exm:institution>University of Bath</exm:institution>
+            </exm:currentPost>
+            <exm:previousPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>University of Brisol</exm:institution>
+            </exm:previousPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Surrey</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>Queen Mary</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>550</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>MK456233J</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Nigel</exm:firstName>
+                    <exm:surname>Way</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>551</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>AW442934K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>William</exm:firstName>
+                    <exm:surname>Hold</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>552</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>333456744</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Ernie</exm:firstName>
+                    <exm:surname>Night</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>10</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>KR123987J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Jo</exm:firstName>
+                <exm:secondaryName>James</exm:secondaryName>
+                <exm:surname>Tree</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Inorganic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Senior Lecturer</exm:position>
+                <exm:institution>University of Bath</exm:institution>
+            </exm:currentPost>
+            <exm:previousPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>University of Brisol</exm:institution>
+            </exm:previousPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>University of Brisol</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>300</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>GH456234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>James</exm:firstName>
+                    <exm:surname>Bourne</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>310</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>FH455234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Jason</exm:firstName>
+                    <exm:surname>Bond</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>320</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123456789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Miss</exm:title>
+                    <exm:firstName>Alicia</exm:firstName>
+                    <exm:surname>Keys</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>UCL</institution>
+                <examinationDate>2007-10-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>University of Durham</institution>
+                <examinationDate>2007-03-02</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+    <exm:examiner>
+        <exm:personalDetails>
+            <exm:localIdentificationNumber>11</exm:localIdentificationNumber>
+            <exm:personalIdentification>
+                <exm:identificationNumber>XS125556J</exm:identificationNumber>
+                <exm:identificationType>National Insurance Number</exm:identificationType>
+                <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+            </exm:personalIdentification>
+            <exm:personName>
+                <exm:title>Dr</exm:title>
+                <exm:firstName>Jimmy</exm:firstName>
+                <exm:surname>Jones</exm:surname>
+            </exm:personName>
+        </exm:personalDetails>
+        <exm:subjectArea>Inorganic Chemistry</exm:subjectArea>
+        <exm:academicPost>
+            <exm:currentPost>
+                <exm:position>Lecturer</exm:position>
+                <exm:institution>Royal Holloway</exm:institution>
+            </exm:currentPost>
+        </exm:academicPost>
+        <exm:PhDDetail>
+            <exm:institution>University of Brisol</exm:institution>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>600</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>FK156234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Julie</exm:firstName>
+                    <exm:surname>Waters</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDExaminar>
+                <exm:localIdentificationNumber>603</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>LU459234K</exm:identificationNumber>
+                    <exm:identificationType>National Insurance Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Lionel</exm:firstName>
+                    <exm:surname>Baker</exm:surname>
+                </exm:personName>
+            </exm:PhDExaminar>
+            <exm:PhDSupervisor>
+                <exm:localIdentificationNumber>605</exm:localIdentificationNumber>
+                <exm:personalIdentification>
+                    <exm:identificationNumber>123996789</exm:identificationNumber>
+                    <exm:identificationType>Passport Number</exm:identificationType>
+                    <exm:issuingAuthority>UK Government</exm:issuingAuthority>
+                </exm:personalIdentification>
+                <exm:personName>
+                    <exm:title>Dr</exm:title>
+                    <exm:firstName>Winny</exm:firstName>
+                    <exm:surname>Wonder</exm:surname>
+                </exm:personName>
+            </exm:PhDSupervisor>
+        </exm:PhDDetail>
+        <previousExperience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>The Institute of Cancer Research</institution>
+                <examinationDate>2007-10-02</examinationDate>
+            </experience>
+            <experience>
+                <subjectArea>Inorganic Chemistry</subjectArea>
+                <institution>UCL</institution>
+                <examinationDate>2007-03-02</examinationDate>
+            </experience>
+        </previousExperience>
+    </exm:examiner>
+
+</exm:examinerCV>
